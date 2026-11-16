@@ -321,7 +321,7 @@ header {
     content: "";
     position: absolute;
     inset: 0;
-    background-image: url(../Img/tech\ image.jpg);
+    background-image: url(tech\ image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
